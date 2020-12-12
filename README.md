@@ -1,2 +1,2 @@
 # test
-bolangtest
+bolangit.test
